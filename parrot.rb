@@ -1,5 +1,5 @@
 def parrot(b = "Pretty bird", "Squawk")
-puts #{b}
+puts "#{b}"
   "Squawk!"
 end
 
