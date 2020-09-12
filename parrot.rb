@@ -3,4 +3,4 @@ puts "#{b}"
   "#{b}"
 end
 
-parrot("Pretty bird!")
+parrot
