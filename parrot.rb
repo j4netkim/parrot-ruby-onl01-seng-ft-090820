@@ -1,9 +1,7 @@
 def parrot
+a = "Pretty bird!"
   "Squawk!"
 end
 
-def parrot
-  return "Pretty bird!"
-end
 
 parrot
