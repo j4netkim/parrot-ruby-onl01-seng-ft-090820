@@ -5,4 +5,4 @@ puts "#{b}"
 end
 
 
-parrot
+parrot(no)
