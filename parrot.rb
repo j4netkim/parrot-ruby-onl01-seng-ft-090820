@@ -5,4 +5,4 @@ puts phrase
 end
 
 
-parrot(1)
+parrot
