@@ -1,4 +1,4 @@
-def parrot(b = "Pretty bird!")
+def parrot(b = "Squawk!")
 puts "#{b}"
 "pretty bird!"
   "Squawk!"
