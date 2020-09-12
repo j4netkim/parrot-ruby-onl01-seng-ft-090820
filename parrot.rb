@@ -5,4 +5,4 @@ parrot_one = "Pretty bird!"
 end
 
 
-parrot
+parrot(1)
