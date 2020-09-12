@@ -1,4 +1,4 @@
-def parrot
+def parrot(b = "Pretty bird", "Squawk")
   "Squawk!"
 end
 
