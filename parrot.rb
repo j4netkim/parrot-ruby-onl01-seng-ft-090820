@@ -1,6 +1,6 @@
-def parrot(b = "Squawk!")
+def parrot(a, b = "Squawk!")
 puts "b"
-"pretty bird!"
+a = "pretty bird!"
   "Squawk!"
 end
 
