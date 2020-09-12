@@ -4,4 +4,3 @@ puts "#{b}"
 end
 
 
-parrot("something")
